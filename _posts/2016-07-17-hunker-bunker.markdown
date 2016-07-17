@@ -28,4 +28,7 @@ Buy right before you leave/hunker -
 Bread
 A flask…with some booze. 
 Be aware that you may need to eat everything in your freezer over the next few days. 
-CLEAN OUT YOUR FRIDGE. Use it or lose it! A few days without power and that gets NASTY really quickly. [See..](https://en.wikipedia.org/wiki/Katrina_refrigerator)
+CLEAN OUT YOUR FRIDGE. Use it or lose it! A few days without power and that gets NASTY really quickly.
+[See..](https://en.wikipedia.org/wiki/Katrina_refrigerator)
+
+- By Laura Dor&eacute;
