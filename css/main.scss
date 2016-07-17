@@ -15,7 +15,7 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: #fdfdfd;
+$background-color: #e6f9ff;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
@@ -27,6 +27,26 @@ $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
+
+// format aside image
+/* image */
+	
+$img-align: right;
+    
+
+
+/* Box Shadow Styles */
+
+#img {
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	
+	-moz-box-shadow: rgba(0,0,0,0.6) 10px 10px 15px;
+	-webkit-box-shadow: rgba(0,0,0,0.6) 10px 10px 15px;
+	box-shadow: rgba(0,0,0,0.6) 10px 10px 15px;
+	}
+	
 
 
 

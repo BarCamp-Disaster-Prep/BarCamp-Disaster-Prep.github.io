@@ -12,11 +12,11 @@ description: > # this means to ignore newlines until "baseurl:"
   This blog is to help make Disaster Preparation accessible to anyone who may not
   believe they have the time, money, or motivation to assemble a disaster "Go
   Bag" or a "Hunker Down Stash".  We give you tips and tricks to make preparing
-  for hazardous situations easy and non-stressful.
+  for hazardous situations easy and non-stressful. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://barcamp-disaster-prep.github.io/" # the base hostname & protocol for your site
+twitter_username: k6hey
+github_username:  hmglass
 
 # Build settings
 markdown: kramdown
