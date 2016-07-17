@@ -8,11 +8,11 @@ This blog is to help make Disaster Preparation accessible to anyone who may not 
 
 This blog was created during BarCamp9 Build Day!
 
-<b><i>Content Contributors:</b></i>
-Laura Dor&eacute;
-Heather Glass
+<h4><b><i>Content Contributors:</i></b></h4>
+* Laura Dor&eacute;
+* Heather Glass
 
-<b><i>Programmers:</b></i>
-Jacqui Nelson
-Steve Price
-Heather Glass
+<h4><b><i>Programmers:</i></b><br/></h4>
+* Jacqui Nelson
+* Steve Price
+* Heather Glass
