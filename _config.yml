@@ -9,10 +9,9 @@
 title: Disaster Preparation for Lazy People
 email: hglass@tulane.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This blog is to help make Disaster Preparation accessible to anyone who may not
-  believe they have the time, money, or motivation to assemble a disaster "Go
-  Bag" or a "Hunker Down Stash".  We give you tips and tricks to make preparing
-  for hazardous situations easy and non-stressful. 
+
+  How to prepare for a disaster if you're super lazy.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://barcamp-disaster-prep.github.io/" # the base hostname & protocol for your site
 twitter_username: k6hey
